@@ -6,7 +6,7 @@
 Dự án xây dựng quy trình Khoa học Dữ liệu khép kín nhằm phát hiện sớm dấu hiệu khách hàng rời bỏ dịch vụ thẻ tín dụng (`Churn`) và đề xuất giải pháp giữ chân khách hàng cho ngân hàng:
 * **Dữ liệu:** *BankChurners* (Kaggle) gồm **10.127 hồ sơ khách hàng** và **23 thuộc tính gốc** (còn **20 thuộc tính** sau tiền xử lý).
 * **Tỷ lệ mất cân bằng nhãn:** **83,93%** khách hàng ở lại (`8.500`) vs. **16,07%** khách hàng rời bỏ (`1.627`) — tỷ lệ `5,22 : 1`.
-* **Công cụ sử dụng:** SQL Server (SSMS), Python (Pandas, Matplotlib, Seaborn, Scikit-learn), Google Looker Studio.
+* **Công cụ sử dụng:** SQL Server , Python (Pandas, Matplotlib, Seaborn, Scikit-learn), Google Looker Studio.
 
 ## 2. Thành viên thực hiện
 * **Giảng viên hướng dẫn:** Ngô Trường Minh
