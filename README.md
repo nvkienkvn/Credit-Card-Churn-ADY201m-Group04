@@ -29,7 +29,8 @@ Credit-Card-Churn-ADY201m-Group04/
 │   ├── EDA.ipynb                   # Phân tích khám phá & trực quan hóa biểu đồ
 │   └── ML.ipynb                    # Huấn luyện mô hình dự báo & xuất Watchlist
 ├── report/
-|   ├── Final_Project_Nhom04_AI2107_TV # Bản Final Report
+|   ├── Final_Project_Nhom04_AI2107_TV # Bản Final Report Tiếng Việt
+|   └── Final_Project_Nhom04_AI2107_EN # Bản Final Report Tiếng Anh
 ├── sql/
 │   ├── taidulieu.sql               # ETL nạp dữ liệu & tạo 2 bảng Customers, Card_Activity
 │   └── khaiphadulieu.sql           # 4 truy vấn phân tích nghiệp vụ & chấm điểm Risk_Score
